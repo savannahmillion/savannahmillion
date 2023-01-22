@@ -20,7 +20,7 @@ Here’s a basic rundown of my process:
 - You send me reference photos that you like, and note any must-haves *(For example: please include these glasses / that hat / the light fur on my dog’s nose)*
 - I will send you a sketchy outline & ask for your feedback about the general layout and elements represented
 - After getting your feedback, I will send you a color update & ask for your feedback about color *(This stage is particularly useful for animals – pet owners see more details in fur coloration than I can usually pick up from photos, especially if I haven’t met your pet in person!)*
-- You approve, pay me via Venmo, and we get your portrait printed ✨
+- You approve, pay me, and we get your portrait printed ✨
 
 Scroll down to see some examples of my portrait work, and [send me an email](mailto:savannahmillion@gmail.com?subject=Commission%20inquiry) requesting a commission to get started.
 
