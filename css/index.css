@@ -83,6 +83,9 @@ p:last-child {
 p,
 .tmpl-post li,
 img {
+  /* max-width: 100%; */
+}
+.tmpl-page img {
   max-width: 100%;
 }
 p,
@@ -361,8 +364,9 @@ a[href].direct-link:focus:visited,
     text-align: center;
   }
   .avatar {
-    width: 120px;
-    height: 120px;
+    width: 120px !important;
+    height: 120px !important;
+    max-width: 120px !important;
   }
 }
 
