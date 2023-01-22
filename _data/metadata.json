@@ -1,0 +1,21 @@
+{
+  "title": "Savannah Million",
+  "url": "https://savannahmillion.com/",
+  "language": "en",
+  "description": "Savannah Million's personal website",
+  "feed": {
+    "subtitle": "Savannah Million's personal website",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://savannahmillion.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://savannahmillion.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Savannah Million",
+    "email": "savannahmillion@gmail.com",
+    "url": "https://savannahmillion.com/about-me/"
+  }
+}
